@@ -1,5 +1,6 @@
 # Learn Terraform - Upload a Sentinel Policy
 
+
 This is a companion repository for the [Upload Your Sentinel Policy Set to
 Terraform
 Cloud](https://learn.hashicorp.com/tutorials/terraform/sentinel-cloud-integration?in=terraform/policy)
